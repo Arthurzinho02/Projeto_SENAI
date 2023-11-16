@@ -10,7 +10,7 @@ const App = () => {
 
             <div class="container">
                 <div class="star d-flex justify-content-center container">
-                    <spam class="star4">S.T.A.R.</spam>T✩
+                    <a href="./Desejo/desejo.html" class="star4 nav-link">S.T.A.R.</a>T✩
                 </div>
             </div>            
         </div>
