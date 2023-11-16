@@ -3,7 +3,7 @@ const App = () => {
         <div>
             <nav class="cabecalho navbar navbar-expand-lg">
                 <div class="container-fluid">
-                <a class="navbar-brand" href="#"><img class="img-fluid w-50 p-3" src="./img/Logo.png"></img></a>
+                <a class="navbar-brand" href="#"><img class="img-fluid w-50 p-3" src="../img/Logo.png"></img></a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                     </button>
@@ -28,9 +28,9 @@ const App = () => {
                 </div>
             </nav>
         
-                <div>A Security and Transmission Administration Resource veio para transformar o mercado industrial, melhorando a comunicação dos funcionários no detalhamento de falhas das máquinas dentro da empresa, otimizando a resolução dos problemas e criando um relatório técnico ao final de cada mes com os maiores incidentes em cada equipamento, dando abertura para uma manutenção mais objetiva, poupando gastos.</div>
+                <div class="text-wrap text-center">A Security and Transmission Administration Resource veio para transformar o mercado industrial, melhorando a comunicação dos funcionários no detalhamento de falhas das máquinas dentro da empresa, otimizando a resolução dos problemas e criando um relatório técnico ao final de cada mes com os maiores incidentes em cada equipamento, dando abertura para uma manutenção mais objetiva, poupando gastos.</div>
         
-            <div class="d-flex justify-content-around gap-3 p-3 ">
+            <div class="d-flex justify-content-around gap-3 p-3">
                 <div class="plano1 container p-0 rounded">
                     <h2 class="d-flex justify-content-center rounded shadow">Empresas Pequenas</h2>
                     <ul>

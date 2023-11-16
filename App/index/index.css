@@ -1,0 +1,18 @@
+*{
+    font-family: 'Inconsolata', monospace;
+}
+
+.star{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(150, 169, 199);
+    height: 200px;
+    width: 400px;
+    font-size: 40px;
+
+}
+
+.star4{
+    color: rgb(63, 94, 140);
+}
