@@ -3,7 +3,7 @@ const App = () => {
         <div>
             <nav class="cabecalho navbar navbar-expand-lg">
                 <div class="container m-3">
-                    <a class="navbar-brand " href="./index/index.html"><img class="img-fluid w-50 p-3 " src="../img/Logo.png"></img></a>
+                    <a class="navbar-brand " href="./index/index.html"><img class="img-fluid w-25 " src="../img/Logo.png"></img></a>
                 </div>
             </nav>
 
